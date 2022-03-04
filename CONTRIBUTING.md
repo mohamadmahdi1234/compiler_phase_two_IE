@@ -22,7 +22,7 @@ But first notice to these tips :
 
 ### Issues
 
-[issue_template](https://github.com/mohamadmahdi1234/compiler_phase_two_IE/blob/main/ISSUE_TEMPLATE.md)
+[issue_template](https://github.com/mohamadmahdi1234/compiler_phase_two_IE/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
 
 
 ### Pull Requests
