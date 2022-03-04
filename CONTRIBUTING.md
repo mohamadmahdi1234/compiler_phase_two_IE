@@ -27,7 +27,7 @@ But first notice to these tips :
 
 ### Pull Requests
 
-Ypu can visit this : 
+You can visit this : 
 
 [pull_request_template](https://github.com/mohamadmahdi1234/compiler_phase_two_IE/blob/main/PULL_REQUEST_TEMPLATE.md)
 
