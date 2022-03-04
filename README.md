@@ -105,7 +105,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+follow these simple example steps.
 
 ## JAR_Files
 
@@ -183,7 +183,7 @@ name :Mohammad mahdi noori
 
 email : <mohamadnoori123@gmail.com>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Link](https://github.com/mohamadmahdi1234/compiler_phase_two_IE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
